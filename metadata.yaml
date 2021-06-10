@@ -1,0 +1,24 @@
+_repo: The-Sinister-Invasion_65483
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hamilton, Edmond
+    alias: Blade, Alexander
+    birthdate: 1904
+    deathdate: 1977
+    gutenberg_agent_id: '26787'
+    url: http://www.gutenberg.org/2009/agents/26787
+    wikipedia: http://en.wikipedia.org/wiki/Edmond_Hamilton
+description: ''
+gutenberg_issued: '2021-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65483'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Sinister Invasion
+url: http://www.gutenberg.org/ebooks/65483
